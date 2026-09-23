@@ -1,0 +1,10 @@
+{
+  "description": "Streamline medical billing with an intuitive platform for admins, doctors, and billing staff, managing invoices, payments, and insurance claims efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
